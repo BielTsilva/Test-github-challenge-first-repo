@@ -1,0 +1,8 @@
+alguns comandos essenciais
+
+- git init 
+- git status
+- git add 
+- git commit 
+- git push 
+- git pull
