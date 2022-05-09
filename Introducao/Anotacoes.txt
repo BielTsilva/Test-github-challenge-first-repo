@@ -6,3 +6,5 @@ alguns comandos essenciais
 - git commit 
 - git push 
 - git pull
+
+Uma simples alteração
